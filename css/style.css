@@ -201,7 +201,7 @@
     /* background-image: url(/images/sky.jpeg); */
     background: linear-gradient(rgba(255,255,255,0.1),
     rgba(255,255,255,0.2)),
-    url(/images/sky.jpeg);
+    url(../images/sky.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
