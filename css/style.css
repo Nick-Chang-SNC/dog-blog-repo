@@ -198,9 +198,8 @@
 
 /* Hero Section */
 .hero {
-    /* background-image: url(/images/sky.jpeg); */
     background: linear-gradient(rgba(255,255,255,0.1),
-    rgba(255,255,255,0.2)),
+    rgba(252, 250, 252,1)),
     url(../images/sky.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
